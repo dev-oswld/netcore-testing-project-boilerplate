@@ -1,5 +1,5 @@
 # Testing Automation Boilerplate
-Other (fast) Testing Automation Boilerplate. Seriously.
+Other (fast) Testing Automation Boilerplate. Seriously
 
 Stack
 - Net Core 6.0
